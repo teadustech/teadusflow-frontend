@@ -3,7 +3,7 @@ This repository contains the teadusflow application frontend code. Adding from m
 
 **Full-Stack Internship — Mentor / Trainer Guide**
 
-**Project 01: Secure User Registration & Login System**
+**Project 01**: Secure User Registration & Login System
 
 **Methodology:** Progressive Learning by Building 
 
