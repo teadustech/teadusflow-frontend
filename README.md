@@ -7,5 +7,24 @@ This repository contains the teadusflow application frontend code. Adding from m
 
 **Methodology:** Progressive Learning by Building 
 
-**Target:** B.Tech Final-Year Students  
+**Target:** B.Tech Final-Year Students 
+
+**Real-World Example**
+Use a familiar application:
+```text
+User opens website
+      ↓
+Frontend renders UI
+      ↓
+User submits login
+      ↓
+API receives request
+      ↓
+Backend validates credentials
+      ↓
+Database provides user data
+      ↓
+Backend responds
+      ↓
+Frontend displays dashboard
 
