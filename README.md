@@ -70,3 +70,43 @@ GET /api/v1/health
 
 and explain why health checks are useful.
 
+TASK 3 — Backend Architecture
+
+Explain
+
+Routes
+ ↓
+Controllers
+ ↓
+Services
+ ↓
+Repositories
+ ↓
+Database
+
+Responsibilities
+
+Route:
+
+Where does the request go?
+
+Controller:
+
+What request/response handling is required?
+
+Service:
+
+What business logic is required?
+
+Repository:
+
+How do we access data?
+
+Ask
+
+"Where should password hashing happen?"
+
+Expected:
+
+Service or dedicated security utility, not inside the route definition.
+
